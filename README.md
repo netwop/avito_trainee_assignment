@@ -1,0 +1,1 @@
+# avito_trainee_assignment
