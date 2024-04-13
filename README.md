@@ -13,7 +13,7 @@ pip install playwright pytest
 playwright install
 ```
 
-## 3. Перейти в директорию с репозиторием
+## 3. Перейдите в директорию с репозиторием
 ```
 cd /d C:\projects\avito_trainee_assignment
 ```
